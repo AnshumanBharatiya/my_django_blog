@@ -1,0 +1,41 @@
+.{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Ubuntu:wght@500&display=swap');
+
+body{
+	background-color: rgb(75,74,74);
+	color: antiquewhite;
+	/* font-family: 'Roboto', sans-serif; */
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.jumbotron{
+	background: rgb(83,81, 81);
+}
+
+.jumbotron h1{
+	font-weight: bold!important;
+	font-size: 35px!important;
+	color: darkkhaki;
+}
+
+p{
+	text-align: justify;
+	font-size: 16px;
+}
+.form-control{
+	background: rgb(177,168,178);
+}
+
+a.nav-link.active{
+	color: #FF0051!important;
+	font-weight: bold;
+}
+
+span.active{
+color: #FF0051!important;
+	font-weight: bold;
+}
