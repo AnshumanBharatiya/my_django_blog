@@ -9,11 +9,11 @@
 	</ul>
 	<h2>Run in your local system !!!!</h2>
 	<ul>
-	    <li> Download zip file by clicking the code button then create a folder in your system and extract the zip folder. </li>
-	    <li>If above requirements are not installed in your system Then install them</li><br>
+	    <li> Download zip file by clicking the code button then create a folder in your system and extract that zip folder. </li>
+	    <li>If above requirements are not installed in your system Then install them. </li><br>
 	    	<ul>
-	    		<b>After installation, Write the below cmd in your cmd promt </b><br>
-	    		<b>1st go to the root project folder named "miniblog" through cmd promt </b>
+	    		<b>After installation, Write the below cmd in your cmd promt. </b><br>
+	    		<b>1st go to the root project folder named "miniblog" through cmd promt. Then, </b>
 	    		<ul>
 	    			<li>python manage.py runserver</li>
 	    			<li>Ctrl+c for stop server</li>
@@ -25,8 +25,9 @@
 	    		</ul>
 	    	</ul>
 	    	<li>Then Sign Up and Login</li>
-	    	<li>If you are a Author then you only can view, add and edit posts  </li>
+	    	<li>If you are a Author then you only can view, add and edit posts.  </li>
 	    	<b>If you go to the admin panel then </b>
 	    	<li>In url type - 127.0.0.1:8000/admin </li>
 	    	<li>Give superuser- username and password </li>
+		<li> Admins have all permissions. </li>
 	</ul>
